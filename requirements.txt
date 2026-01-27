@@ -1,5 +1,9 @@
-langchain 
-langchain-community 
-langchain-openai
+openai
+typer
 python-dotenv
+httpx
+readability-lxml
+beautifulsoup4
+pyyaml
+rapidfuzz
 pydantic
