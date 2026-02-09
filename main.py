@@ -7,5 +7,5 @@ import os
 load_dotenv()
 
 model = os.getenv("OPENAI_MODEL", "gpt-5-mini")
-
+ 
 
